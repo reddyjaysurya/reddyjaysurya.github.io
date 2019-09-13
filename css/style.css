@@ -182,10 +182,6 @@ footer {
 
 
 
-/*---------------------------------------
-    General               
------------------------------------------*/
-
 html{
   -webkit-font-smoothing: antialiased;
 }
@@ -215,11 +211,6 @@ a:hover, a:active, a:focus {
   box-sizing: border-box;
 }
 
-
-
-/*---------------------------------------
-    Preloader section              
------------------------------------------*/
 
 .preloader {
   position: fixed;
@@ -265,11 +256,6 @@ a:hover, a:active, a:focus {
   to {transform: rotate(360deg);}
 }
 
-
-
-/*---------------------------------------
-    Navigation section              
------------------------------------------*/
 
 .custom-navbar {
     margin-bottom: 0;
@@ -340,10 +326,6 @@ a:hover, a:active, a:focus {
 
 
 
-/*---------------------------------------
-    Home section              
------------------------------------------*/
-
 #home h1 {
   padding-bottom: 18px;
 }
@@ -378,10 +360,6 @@ a:hover, a:active, a:focus {
 
 
 
-/*---------------------------------------
-   About section              
------------------------------------------*/
-
 #about .about-img {
     background: url('../images/about-img.jpg') no-repeat;
 }
@@ -410,11 +388,6 @@ a:hover, a:active, a:focus {
 }
 
 
-
-/*---------------------------------------
-    Service section              
------------------------------------------*/
-
 #service {
   background: #E9724C;
 }
@@ -433,11 +406,6 @@ a:hover, a:active, a:focus {
   padding-bottom: 22px;
 }
 
-
-
-/*---------------------------------------
-    Experience section              
------------------------------------------*/
 
 #experience .experience-img1 {
   background: url('../images/1.jpg') no-repeat;
